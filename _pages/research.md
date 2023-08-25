@@ -1,58 +1,20 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
-description: A growing collection of your cool projects.
-nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+description: Research Overview
+nav: false
+nav_order: 1
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+I seek to develop a new generation of data-driven decision-making methods, theory, and systems, which tailor modern artificial intelligence towards addressing pressing societal challenges. To this end, my research aims at
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+(a) making deep reinforcement learning more efficient, both computationally and statistically, in a principled manner.
+
+(b) scaling deep reinforcement learning to design and optimize societal-scale multi-agent systems, especially those involving cooperation and/or competition among a large population of humans and/or robots.
+
+###### Online RL: 
+
+###### Offline RL: 
+
+###### Multi-Agent RL:
