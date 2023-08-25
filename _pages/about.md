@@ -19,6 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I am an Assistant Professor of Statistics and Data Science at Yale University. My research interests span the intersection of machine learning, statistics, game theory, and optimization. 
+In particular, I am deeply intrigued by the foundations of reinforcement learning, representation learning, and deep learning. Before coming to Yale, I served as a postdoctoral researcher at the University of California, Berkeley, under the guidance of [Michael. I. Jordan](https://arxiv.org/abs/2307.00126). Earlier, I earned my Ph.D. from the Department of Operations Research and Financial Engineering at Princeton University, where I was co-advised by [Jianqing Fan](https://fan.princeton.edu/) and [Han Liu](http://magics.cs.northwestern.edu/index.html). I completed my bachelor’s degree in Mathematics at Tsinghua University in 2015.
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
