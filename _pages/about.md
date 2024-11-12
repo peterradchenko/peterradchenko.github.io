@@ -33,7 +33,7 @@ My research is supported by NSF DMS 2413243.
 Before coming to Yale, I worked as a postdoctoral researcher at the University of California, Berkeley, under the supervision of [Michael. I. Jordan](https://arxiv.org/abs/2307.00126). Prior to that, I obtained my Ph.D. from the Department of Operations Research and Financial Engineering at Princeton University, where I was co-advised by [Jianqing Fan](https://fan.princeton.edu/) and [Han Liu](http://magics.cs.northwestern.edu/index.html). I completed my bachelor’s degree in Mathematics at Tsinghua University in 2015.
 
 
-<a href="/assets/pdf/zhuoran_cv.pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; border-radius: 3px;">My CV</a>
+<a href="/assets/pdf/zhuoran_CV.pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; border-radius: 3px;">My CV</a>
 
  
 
