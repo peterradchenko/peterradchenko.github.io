@@ -214,6 +214,9 @@
               {% endif %}
               data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
             {%- endif %}
+            {%- if entry.tweet %}
+            <a href="{{ entry.tweet }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Tweet</a>
+            {%- endif %}
           </div>
           {%- endif %}
 

@@ -20,10 +20,23 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am an Assistant Professor of [Statistics and Data Science at Yale University](https://statistics.yale.edu/). My research interests span the intersection of machine learning, statistics, game theory, and optimization. 
-In particular, I mainly work on the foundations of reinforcement learning, representation learning, and deep learning. 
+I am an Assistant Professor of [Statistics and Data Science](https://statistics.yale.edu/) and Computer Science (https://cpsc.yale.edu/) at Yale University. I am also affiliated with the [Yale Institute for Foundations of Data Science](https://fds.yale.edu/) and [Center for Algorithms, Data, and Market Design at Yale (CADMY)](https://cadmy.yale.edu/).
+
+
+My research interests span the intersection of machine learning, statistics, game theory, and optimization. 
+In particular, I mainly work on the following topics recently: 
+-- **Foundation of Reinforcement Learning**, especially in the context of multi-agent systems where agents interact strategically;
+-- **Foundation of Artificial Intelligence**, especially in understanding the emergent behaviors of large language models during pre-training and post-training and their relationship with the model architecture. 
+
+My research is supported by NSF DMS 2413243. 
 
 Before coming to Yale, I worked as a postdoctoral researcher at the University of California, Berkeley, under the supervision of [Michael. I. Jordan](https://arxiv.org/abs/2307.00126). Prior to that, I obtained my Ph.D. from the Department of Operations Research and Financial Engineering at Princeton University, where I was co-advised by [Jianqing Fan](https://fan.princeton.edu/) and [Han Liu](http://magics.cs.northwestern.edu/index.html). I completed my bachelor’s degree in Mathematics at Tsinghua University in 2015.
+
+
+<a href="/assets/pdf/zhuoran_cv.pdf" target="_blank" style="display: inline-block; padding: 10px 15px; margin-top: 10px; font-weight: bold; text-decoration: none; background-color: #007acc; color: white; border-radius: 5px;">My CV</a>
+
+ 
+
 
 **Contact**
 
@@ -35,7 +48,7 @@ Before coming to Yale, I worked as a postdoctoral researcher at the University o
 
 I am looking for self-motivated **Ph.D. students** and **postdocs** with a strong mathematical and/or programming background.
 I am also happy to host (remote) undergraduate/graduate visitors with common research interests. 
-Feel free to contact me via email with your CV if you are interested in working with me. 
+Feel free to contact me via **email with your CV** if you are interested in working with me. 
 
 
 
