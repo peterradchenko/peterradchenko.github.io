@@ -6,7 +6,7 @@ subtitle:  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zhuoran_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 1021</p>
@@ -25,7 +25,9 @@ I am an Assistant Professor of [Statistics and Data Science](https://statistics.
 
 My research interests span the intersection of machine learning, statistics, game theory, and optimization. 
 In particular, I mainly work on the following topics recently: 
+
 -- **Foundation of Reinforcement Learning**, especially in the context of multi-agent systems where agents interact strategically;
+
 -- **Foundation of Artificial Intelligence**, especially in understanding the emergent behaviors of large language models during pre-training and post-training and their relationship with the model architecture. 
 
 My research is supported by NSF DMS 2413243. 
