@@ -25,15 +25,14 @@ I am a Professor of Professor of Statistics at the [University of Sydney Busines
 
 My research interests are in developing new methodology for dealing with massive and complex modern data, particularly in the area of high-dimensional regression, where the number of predictors is large relative to the number of observations. A more recent line of my research takes advantage of the impressive advances in mixed integer optimization and modern optimization techniques to solve and analyse critically important discrete problems arising in statistics.  I have also worked on the problems of large-scale cluster analysis, functional data analysis, large-scale estimation and inference, and correlation screening. 
 
-#<a href="assets/pdf/zhuoran_cv.pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; #border-radius: 3px;">My CV</a>
+[//]: # <a href="assets/pdf/zhuoran_cv.pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; #border-radius: 3px;">My CV</a>
 
  
 
 
 **Contact**
 
-- email: peter.radchenko AT sydney.edu.au
-- [Google Scholar](https://scholar.google.com/citations?user=DlnP7bEAAAAJ&hl=en)
+- peter.radchenko AT sydney.edu.au
 
 
 
