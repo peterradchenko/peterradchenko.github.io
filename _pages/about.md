@@ -6,7 +6,7 @@ subtitle:  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: zhuoran_pic.jpg
+  image: p5.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 1021</p>
@@ -36,11 +36,6 @@ My research interests are in developing new methodology for dealing with massive
 - email: peter.radchenko AT sydney.edu.au
 - [Google Scholar](https://scholar.google.com/citations?user=DlnP7bEAAAAJ&hl=en)
 
-**Openings**
-
-I am looking for self-motivated **Ph.D. students** and **postdocs** with a strong mathematical and/or programming background.
-I am also happy to host (remote) undergraduate/graduate visitors with common research interests. 
-Feel free to contact me via **email with your CV** if you are interested in working with me. 
 
 
 
