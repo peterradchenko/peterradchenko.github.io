@@ -9,9 +9,9 @@ nav_order: 3
 
 **Selected grants, awards, and honours**
 
-- Elected Member of the International Statistical Institute
+- Elected Member of the [International Statistical Institute](https://isi-web.org/)
   
-- Australian Research Council 2025 Discovery Projects Grant DP250100702
+- [Australian Research Council](https://www.arc.gov.au/) 2025 Discovery Projects Grant DP250100702
   
 - University of Sydney – Cornell University 2024 Ignition Grant/ Global Strategic Collaboration Award
   
