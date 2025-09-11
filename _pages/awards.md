@@ -9,8 +9,8 @@ nav_order: 2
 
 **Selected grants, awards, and honours**
 
-- Elected Member of the International Statistical Institute (2024)
 - Australian Research Council 2025 Discovery Projects Grant DP250100702
+- Elected Member of the International Statistical Institute (2024)
 - University of Sydney – Cornell University 2024 Ignition Grant/ Global Strategic Collaboration Award
 - Honorable Mention for the 2023 NFORMS Computing Society Prize
 - University of Sydney Multidisciplinary Research Accelerator 2023 Seed Fund Award
