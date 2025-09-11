@@ -4,10 +4,10 @@ title: Awards
 permalink: /awards/
 description: 
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
-** Selected grants, awards, and honours **
+**Selected grants, awards, and honours**
 
 - Elected Member of the International Statistical Institute (2024)
 - Australian Research Council 2025 Discovery Projects Grant DP250100702
