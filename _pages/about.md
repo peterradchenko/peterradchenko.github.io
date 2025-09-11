@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Professor of Statistics at the [University of Sydney Business School](https://www.sydney.edu.au/business/). 
 
-I am interested in developing new methodology for dealing with massive and complex modern data, particularly in the area of high-dimensional regression. A more recent line of my research takes advantage of the advances in mixed integer optimization and modern optimization techniques to solve and analyse critically important discrete problems arising in statistics.  I have also worked on the problems of large-scale cluster analysis, large-scale estimation and inference, correlation screening, forecast reconciliation, and functional data analysis. 
+I am interested in developing new methodology for dealing with massive and complex modern data, particularly in the area of high-dimensional regression. A more recent line of my research takes advantage of the advances in mixed integer optimization and modern optimization techniques to analyse key discrete problems arising in statistics.  I have also worked on the problems of large-scale cluster analysis, large-scale estimation and inference, correlation screening, forecast reconciliation, and functional data analysis. 
 
 Prior to joining the [University of Sydney](https://www.sydney.edu.au/), I held academic positions at the University of Chicago and in the Marshall School of Business at the University of Southern California. I have a PhD in Statistics from Yale University (advisor: David Pollard), and an undergraduate degree in Mathematics from the Lomonosov Moscow State University.
 
