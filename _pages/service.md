@@ -11,10 +11,6 @@ nav_order: 2
 
 <p> </p> 
 
-<p> </p>
-
-<p ></p>
-
 - Editor (similar to AE), [International Statistical Review](https://onlinelibrary.wiley.com/journal/17515823)
   
 - Member of the [2026 IMS-APRM](https://ims-aprm2026.sta.cuhk.edu.hk/) [Scientific Program Committee](https://ims-aprm2026.sta.cuhk.edu.hk/committees)
