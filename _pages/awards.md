@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<h1> Selected honours, grants, and awards </h1>
+
 #### Selected honours, grants, and awards
 
 **Selected honours, grants, and awards**
