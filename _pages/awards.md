@@ -7,13 +7,16 @@ nav: true
 nav_order: 3
 ---
 
-**Selected grants, awards, and honours**
+####Selected honours, grants, and awards
+**Selected honours, grants, and awards**
 
 - Elected Member of the [International Statistical Institute](https://isi-web.org/)
   
 - [Australian Research Council](https://www.arc.gov.au/) 2025 Discovery Projects Grant DP250100702
   
 - University of Sydney – Cornell University 2024 Ignition Grant/ Global Strategic Collaboration Award
+
+- 2024 Vising Professor, ESSEC Business School
   
 - Honorable Mention for the 2023 NFORMS Computing Society Prize
   
