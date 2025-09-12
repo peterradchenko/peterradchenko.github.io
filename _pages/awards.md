@@ -9,8 +9,7 @@ nav_order: 3
 
 #### Selected honours, grants, and awards
 
-<p></p>
-<p></p>
+<p> </p> 
 
 - Elected Member of the [International Statistical Institute](https://isi-web.org/)
   
