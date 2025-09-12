@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-**Selected recent service**
+#### Selected recent service
 
 - Editor (similar to AE), [International Statistical Review](https://onlinelibrary.wiley.com/journal/17515823)
   
