@@ -15,6 +15,4 @@ nav_order: 2
   
 - Member of the [Committee on Nominations](https://imstat.org/current-committee-members/), [Institute of Mathematical Statistics](https://imstat.org/)
   
-- Grant Proposal Reviewer, [Australian Research Council](https://www.arc.gov.au/)
-
 - 2019-2023 Deputy Head Research of the [Business Analytics Discipline](https://www.sydney.edu.au/business/our-research/research-areas/business-analytics.html) at the University of Sydney Business School
