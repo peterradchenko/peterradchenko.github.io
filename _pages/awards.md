@@ -7,7 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-####Selected honours, grants, and awards
+#### Selected honours, grants, and awards
+
 **Selected honours, grants, and awards**
 
 - Elected Member of the [International Statistical Institute](https://isi-web.org/)
