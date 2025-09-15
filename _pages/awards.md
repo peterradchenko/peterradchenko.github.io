@@ -15,7 +15,7 @@ nav_order: 3
   
 - [Australian Research Council](https://www.arc.gov.au/) 2025 Discovery Projects Grant DP250100702
   
-- University of Sydney – Cornell University 2024 Ignition Grant/ Global Strategic Collaboration Award
+- University of Sydney – Cornell University 2024 Global Strategic Collaboration Award
 
 - 2024 Vising Professor, [ESSEC Business School](https://www.essec.edu/en/), Paris
   
