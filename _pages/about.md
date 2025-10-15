@@ -25,7 +25,7 @@ I am interested in developing new methodology for dealing with massive and compl
 
 Prior to joining the [University of Sydney](https://www.sydney.edu.au/), I held academic positions in the Marshall School of Business at the University of Southern California and in the Statistics Department at the University of Chicago. I have a PhD in Statistics from Yale University (advisor: David Pollard), and an undergraduate degree in Mathematics from the Lomonosov Moscow State University.
 
-[//]: # <a href="assets/pdf/zhuoran_cv.pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; #border-radius: 3px;">My CV</a>
+[//]: # <a href="assets/pdf/z....pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; #border-radius: 3px;">My CV</a>
 
  
 
