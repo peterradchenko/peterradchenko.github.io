@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am interested in developing new methodology for dealing with massive and complex modern data, particularly in the area of high-dimensional regression. A more recent line of my research takes advantage of the advances in mixed integer optimization and modern optimization techniques to analyse key discrete problems arising in statistics.  I have also worked on the problems of large-scale cluster analysis, large-scale estimation and inference, correlation screening, forecast reconciliation, and functional data analysis. 
 
-Prior to joining the [University of Sydney](https://www.sydney.edu.au/), I held academic positions in the Marshall School of Business at the University of Southern California and at the University of Chicago. I have a PhD in Statistics from Yale University (advisor: David Pollard), and an undergraduate degree in Mathematics from the Lomonosov Moscow State University.
+Prior to joining the [University of Sydney](https://www.sydney.edu.au/), I held academic positions in the Marshall School of Business at the University of Southern California and in the Statistics Department at the University of Chicago. I have a PhD in Statistics from Yale University (advisor: David Pollard), and an undergraduate degree in Mathematics from the Lomonosov Moscow State University.
 
 [//]: # <a href="assets/pdf/zhuoran_cv.pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; #border-radius: 3px;">My CV</a>
 
