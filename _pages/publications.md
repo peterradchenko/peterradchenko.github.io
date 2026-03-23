@@ -7,6 +7,9 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+
+Selected publications (methodology/theory)
+
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
