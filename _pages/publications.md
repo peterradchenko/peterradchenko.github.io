@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-Selected publications (methodology/theory)
+#### Selected publications (methodology/theory)
 
 <div class="publications">
 
