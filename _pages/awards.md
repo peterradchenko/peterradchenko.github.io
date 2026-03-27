@@ -25,7 +25,7 @@ nav_order: 3
   
 - [Australian Research Council](https://www.arc.gov.au/) 2019 Discovery Projects Grant DP190103243
   
-- 2018, 2020, 2023, 2024 Unit of Study Survey Awards for Teaching, University of Sydney
+- 2018, 2020, 2023, 2024, 2025 Unit of Study Survey Awards for Teaching, University of Sydney
   
 - 2019, 2021, 2022, 2023 [Discipline of Business Analytics](https://www.sydney.edu.au/business/our-research/research-areas/business-analytics.html) Teaching Excellence Awards
   
