@@ -13,6 +13,8 @@ nav_order: 2
 
 - Editor (similar to AE), [International Statistical Review](https://onlinelibrary.wiley.com/journal/17515823)
   
+- Member of the Editorial Board of Reviewers for the [Journal of Machine Learning Research](https://www.jmlr.org/)
+
 - Member of the [Scientific Program Committee](https://ims-aprm2026.sta.cuhk.edu.hk/committees) for the [2026 Institute of Mathematical Statistics Asia Pacific Rim Meeting](https://ims-aprm2026.sta.cuhk.edu.hk/)
 
 - Member of the 2024-2025 Committee on Nominations, [Institute of Mathematical Statistics](https://imstat.org/)
